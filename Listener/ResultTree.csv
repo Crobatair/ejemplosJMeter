@@ -1,0 +1,3 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,Latency,IdleTime,Connect
+1508302910913,16413,request,200,OK,View Result Tree 1-1,text,true,,27202,375,1,1,4424,0,3235
+1508303948575,12965,request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket operation on nonsocket: connect,View Result Tree 1-1,text,false,,4327,240,1,1,4519,0,3938
